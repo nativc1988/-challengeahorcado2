@@ -1,2 +1,2 @@
-# -challengeahorcado2
 Juego del Ahorcado
+Desafio 2
